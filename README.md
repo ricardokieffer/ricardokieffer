@@ -39,3 +39,5 @@ Aplicación de escritorio para gestionar un taller de reparación de PC: cliente
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-kieffer)
+[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ricardo_kieffer)
+[![Bit&Fix](https://img.shields.io/badge/Bit%26Fix-sitio%20web-1F6FEB?style=flat)](https://bit-fix.pages.dev)
