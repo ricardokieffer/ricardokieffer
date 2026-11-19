@@ -26,6 +26,9 @@ Sitio web de mi emprendimiento de reparación de PC y desarrollo web, con 11 pá
 **[TecnoService](https://github.com/ricardokieffer/Bit-Fix-TecnoService)**
 Aplicación de escritorio para gestionar un taller de reparación de PC: clientes, ingresos de equipos, órdenes con presupuesto, técnicos y repuestos con control de stock. Python, Tkinter y PostgreSQL. Proyecto en equipo del ISPC, donde coordiné el trabajo, el control de versiones y las validaciones.
 
+**[Survival Engine](https://github.com/ricardokieffer/survival-engine)** · [jugar demo](https://ricardokieffer.github.io/survival-engine/)
+Modelo matemático y lógico de un videojuego de supervivencia, con una demo jugable que muestra en tiempo real cada fórmula y regla aplicada: funciones, progresiones, lógica proposicional y teoría de conjuntos. Python, HTML, CSS y JavaScript. Proyecto en equipo del ISPC.
+
 *Más proyectos en camino.*
 
 ## Formación
