@@ -21,7 +21,7 @@ También trabajo con modelado de datos, UML, relevamiento de requerimientos y bu
 ## Proyectos
 
 **[Bit&Fix](https://github.com/ricardokieffer/bit-fix)** · [ver sitio](https://bit-fix.pages.dev)
-Sitio web de mi emprendimiento de reparación de PC y desarrollo web, con 12 páginas de ejemplo para distintos rubros (barbería, panadería, gimnasio, estudio jurídico y más). HTML, CSS y JavaScript, publicado en Cloudflare Pages.
+Sitio web de mi emprendimiento de reparación de PC y desarrollo web, con 11 páginas de ejemplo para distintos rubros (barbería, panadería, gimnasio, estudio jurídico y más) y ROXMAR, un proyecto real en desarrollo para un comercio de San José de la Dormida. HTML, CSS y JavaScript, publicado en Cloudflare Pages.
 
 **[TecnoService](https://github.com/ricardokieffer/Bit-Fix-TecnoService)**
 Aplicación de escritorio para gestionar un taller de reparación de PC: clientes, ingresos de equipos, órdenes con presupuesto, técnicos y repuestos con control de stock. Python, Tkinter y PostgreSQL. Proyecto en equipo del ISPC, donde coordiné el trabajo, el control de versiones y las validaciones.
