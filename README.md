@@ -29,6 +29,9 @@ Aplicación de escritorio para gestionar un taller de reparación de PC: cliente
 **[Survival Engine](https://github.com/ricardokieffer/survival-engine)** · [jugar demo](https://ricardokieffer.github.io/survival-engine/)
 Modelo matemático y lógico de un videojuego de supervivencia, con una demo jugable que muestra en tiempo real cada fórmula y regla aplicada: funciones, progresiones, lógica proposicional y teoría de conjuntos. Python, HTML, CSS y JavaScript. Proyecto en equipo del ISPC.
 
+**[Trivia Mundial](https://github.com/ricardokieffer/trivia-mundial)** · [jugar](https://ricardokieffer.github.io/trivia-mundial/)
+Juego de preguntas sobre los 197 países del mundo: capitales, banderas y ubicación en el mapa, con tres niveles y un modo adaptativo que ajusta la dificultad según las respuestas. HTML, CSS y JavaScript en un solo archivo, sin dependencias.
+
 *Más proyectos en camino.*
 
 ## Formación
